@@ -8,7 +8,8 @@ aclm: access control list manager
 ast: active segment table
 bscom: boot shell command
 cal: calendar
-com shell commands
+com: shell commands
+csr: control status register
 ctboot: cartridge tape boot program
 dm: display manager
 ec: event count
@@ -19,6 +20,7 @@ gpr: graphics primitive resource
 mbx: mailbox
 mst: mapped segment table
 netboot: diskless node bootstrap program
+ppn: physical page number
 rfc: run file converter
 rgy: registry
 sau: stand-alone utilities

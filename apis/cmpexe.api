@@ -1,0 +1,16 @@
+cmpexe_$close_toc
+cmpexe_$element_alignment
+cmpexe_$element_bounds
+cmpexe_$element_dtm
+cmpexe_$element_name
+cmpexe_$element_type
+cmpexe_$find_by_offset
+cmpexe_$find_by_offset_uid
+cmpexe_$find_by_tag
+cmpexe_$find_by_tag_uid
+cmpexe_$inq_ts
+cmpexe_$inq_ts_uid
+cmpexe_$next_element
+cmpexe_$open_toc
+cmpexe_$open_toc_uid
+cmpexe_$uid

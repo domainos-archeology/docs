@@ -1,0 +1,17 @@
+color_$acquire
+color_$assoc
+color_$dissoc
+color_$dm_init
+color_$enqueue
+color_$init
+color_$init_nc
+color_$inq_done_wait
+color_$int_init
+color_$map
+color_$mode_plane_mask
+color_$op_move
+color_$reload_state
+color_$set_mode
+color_$terminate
+color_$unmap
+color_$zoom

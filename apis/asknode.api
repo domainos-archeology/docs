@@ -1,0 +1,10 @@
+asknode_$get_info
+asknode_$info
+asknode_$internet_info
+asknode_$kind_t
+asknode_$read_failure_rec
+asknode_$reply_t
+asknode_$txt_t
+asknode_$who
+asknode_$who_notopo
+asknode_$who_remote
