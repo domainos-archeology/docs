@@ -23,7 +23,7 @@ abbreviations
 - ppn: physical page number
 - rfc: run file converter
 - rgy: registry
-- sau: stand-alone utilities
+- sau: stand-alone utilities (also used as machine classes)
 - sh: single process shell
 - spm: service process manager (runs on server nodes, usually DSP*)
 - sysboot: system bootstrap program
